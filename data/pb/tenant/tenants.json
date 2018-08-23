@@ -1,8 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "tenant",
-  "tenants": [
-    {
+  "tenants": [{
       "code": "pb.jalandhar",
       "name": "Jalandhar",
       "description": "Jalandhar",
@@ -27,70 +26,70 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": null
+        "code": "1013"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "contactNumber": "0181-2227015"
     },
     {
-	"code": "pb.phagwara",
-	"name": "Phagwara",
-	"description": "phagwara",
-	"logoId": null,
-	"imageId": null,
-	"domainUrl": "http://www.mcphagwara.com/index.php",
-	"type": "CITY",
-	"twitterUrl": null,
-	"facebookUrl": null,
-	"emailId": "comm.mcpgr@punjab.gov.in",
-	"OfficeTimings": {
-		"Mon - Fri": "9.00 AM - 6.00 PM"
-	},
-	"city": {
-		"name": "Phagwara",
-		"localName": null,
-		"districtCode": null,
-		"districtName": null,
-		"regionName": null,
-		"ulbGrade": null,
-		"longitude": 75.7708,
-		"latitude": 31.2240,
-		"shapeFileLocation": null,
-		"captcha": null,
-		"code": null
-	},
-	"address": "Town Hall, Phagwara, Punjab - 144401",
-	"contactNumber": "01824-260426"
-  },
-  {
-    "code": "pb.amritsar",
-    "name": "Amritsar",
-    "description": "amritsar",
-    "logoId": null,
-    "imageId": null,
-    "domainUrl": "http://www.amritsarcorp.com/",
-    "type": "CITY",
-    "twitterUrl": null,
-    "facebookUrl": null,
-    "emailId": "cmcasr@punjab.gov.in",
-    "OfficeTimings": {
-      "Mon - Fri": "9.00 AM - 6.00 PM"
+      "code": "pb.phagwara",
+      "name": "Phagwara",
+      "description": "phagwara",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://www.mcphagwara.com/index.php",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "comm.mcpgr@punjab.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Phagwara",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.7708,
+        "latitude": 31.2240,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "807"
+      },
+      "address": "Town Hall, Phagwara, Punjab - 144401",
+      "contactNumber": "01824-260426"
     },
-    "city": {
+    {
+      "code": "pb.amritsar",
       "name": "Amritsar",
-      "localName": null,
-      "districtCode": null,
-      "districtName": null,
-      "regionName": null,
-      "ulbGrade": null,
-      "longitude": 74.8723,
-      "latitude": 31.6340,
-      "shapeFileLocation": null,
-      "captcha": null,
-      "code": null
-    },
-    "address": "Municipal Corporation Amritsar, C Block, Ranjit Avenue, Amritsar, Punjab",
-    "contactNumber": "Not available"
+      "description": "amritsar",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://www.amritsarcorp.com/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cmcasr@punjab.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Amritsar",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.8723,
+        "latitude": 31.6340,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107"
+      },
+      "address": "Municipal Corporation Amritsar, C Block, Ranjit Avenue, Amritsar, Punjab",
+      "contactNumber": "Not available"
     },
     {
       "code": "pb.hoshiarpur",
@@ -117,534 +116,625 @@
         "latitude": 31.5143,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": null
+        "code": "910"
       },
       "address": "Office of Municipal Corporation, Swami Vivekanda Bhawan, Near New Dhobi Ghat Chowk, Hoshiarpur-146001, Punjab.",
       "contactNumber": "01882220322"
+    },
+    {
+      "code": "pb.moga",
+      "name": "Moga",
+      "description": "moga",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://mcmoga.org/Index.aspx",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eo_mcmoga2007@yahoo.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
       },
-      {
-        "code": "pb.moga",
+      "city": {
         "name": "Moga",
-        "description": "moga",
-        "logoId": null,
-        "imageId": null,
-        "domainUrl": "http://mcmoga.org/Index.aspx",
-        "type": "CITY",
-        "twitterUrl": null,
-        "facebookUrl": null,
-        "emailId": "eo_mcmoga2007@yahoo.com",
-        "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 5.00 PM"
-        },
-        "city": {
-          "name": "Moga",
-          "localName": null,
-          "districtCode": null,
-          "districtName": null,
-          "regionName": null,
-          "ulbGrade": null,
-          "longitude": 75.1734,
-          "latitude": 30.8230,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": null
-        },
-        "address": "Municipal Corporation,town hall, Main Bazaar, Court road, Moga, Punjab 142001",
-        "contactNumber": "01636-233124"
-        },
-        {
-          "code": "pb.mohali",
-          "name": "Mohali",
-          "description": "mohali",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "http://mcmohali.org/Home.aspx",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "mcsasnagar@gmail.com",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Mohali",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 76.7179,
-            "latitude": 30.7046,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "Municipal Corporation, SAS Nagar, Sector-68 Mohali",
-          "contactNumber": "0172 5044907"
-          },
-          {
-          "code": "pb.alawalpur",
-          "name": "Alawalpur",
-          "description": "alawalpur",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Alawalpur",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.6499,
-            "latitude": 31.4345,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.1734,
+        "latitude": 30.8230,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2111"
+      },
+      "address": "Municipal Corporation,town hall, Main Bazaar, Court road, Moga, Punjab 142001",
+      "contactNumber": "01636-233124"
+    },
+    {
+      "code": "pb.mohali",
+      "name": "Mohali",
+      "description": "mohali",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://mcmohali.org/Home.aspx",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcsasnagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Mohali",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.7179,
+        "latitude": 30.7046,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2004"
+      },
+      "address": "Municipal Corporation, SAS Nagar, Sector-68 Mohali",
+      "contactNumber": "0172 5044907"
+    },
+    {
+      "code": "pb.alawalpur",
+      "name": "Alawalpur",
+      "description": "alawalpur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Alawalpur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.6499,
+        "latitude": 31.4345,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1002"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.jagraon",
-          "name": "Jagraon",
-          "description": "jagraon",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Jagraon",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.4694,
-            "latitude": 30.7916,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.jagraon",
+      "name": "Jagraon",
+      "description": "jagraon",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Jagraon",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.4694,
+        "latitude": 30.7916,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1202"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.pathankot",
-          "name": "Pathankot",
-          "description": "Pathankot",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "http://pathankot.gov.in/#",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "dc.pathankot@gmail.com",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Pathankot",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.6421,
-            "latitude": 32.2643,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "Deputy Commissioner, Pathankot, Punjab",
-          "contactNumber": "0186-2346464"
-          },
+    {
+      "code": "pb.pathankot",
+      "name": "Pathankot",
+      "description": "Pathankot",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://pathankot.gov.in/#",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dc.pathankot@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Pathankot",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.6421,
+        "latitude": 32.2643,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1905"
+      },
+      "address": "Deputy Commissioner, Pathankot, Punjab",
+      "contactNumber": "0186-2346464"
+    },
 
-          {
-          "code": "pb.khamano",
-          "name": "Khamano",
-          "description": "Khamano",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Khamano",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 76.3464,
-            "latitude": 30.8152,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.khamano",
+      "name": "Khamano",
+      "description": "Khamano",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Khamano",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.3464,
+        "latitude": 30.8152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "503"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.patiala",
-          "name": "Patiala",
-          "description": "Patiala",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "https://patiala.nic.in/",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "dc.ptl@punjab.gov.in",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Patiala",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 76.3869,
-            "latitude": 30.3398,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala – 147001",
-          "contactNumber": "0175-2311300"
-          },
+    {
+      "code": "pb.patiala",
+      "name": "Patiala",
+      "description": "Patiala",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://patiala.nic.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dc.ptl@punjab.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Patiala",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.3869,
+        "latitude": 30.3398,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2203"
+      },
+      "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala – 147001",
+      "contactNumber": "0175-2311300"
+    },
 
-          {
-          "code": "pb.machhiwara",
-          "name": "Machhiwara",
-          "description": "Machhiwara",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Machhiwara",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 76.1929,
-            "latitude": 30.9141,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.machhiwara",
+      "name": "Machhiwara",
+      "description": "Machhiwara",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Machhiwara",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.1929,
+        "latitude": 30.9141,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1204"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.makhu",
-          "name": "Makhu",
-          "description": "Makhu",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Makhu",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 74.9764,
-            "latitude": 31.1072,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.makhu",
+      "name": "Makhu",
+      "description": "Makhu",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Makhu",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.9764,
+        "latitude": 31.1072,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "703"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.mullanpur",
-          "name": "Mullanpur",
-          "description": "Mullanpur",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Mullanpur",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.6732,
-            "latitude": 30.8427,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.mullanpur",
+      "name": "Mullanpur",
+      "description": "Mullanpur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Mullanpur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.6732,
+        "latitude": 30.8427,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "314"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.bathinda",
-          "name": "Bathinda",
-          "description": "Bathinda",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "https://bathinda.nic.in/",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "dc.btd@punjab.gov.in",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Bathinda",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 74.9455,
-            "latitude": 30.2110,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "Office of the Deputy Commissioner, District Administrative Complex, Mini Secretariat, Bathinda-151001",
-          "contactNumber": "91-164-2210042"
-          },
+    {
+      "code": "pb.bathinda",
+      "name": "Bathinda",
+      "description": "Bathinda",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://bathinda.nic.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dc.btd@punjab.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bathinda",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.9455,
+        "latitude": 30.2110,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "321"
+      },
+      "address": "Office of the Deputy Commissioner, District Administrative Complex, Mini Secretariat, Bathinda-151001",
+      "contactNumber": "91-164-2210042"
+    },
 
-          {
-          "code": "pb.ludhiana",
-          "name": "Ludhiana",
-          "description": "Ludhiana",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Ludhiana",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.8573,
-            "latitude": 30.9010,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.ludhiana",
+      "name": "Ludhiana",
+      "description": "Ludhiana",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Ludhiana",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.8573,
+        "latitude": 30.9010,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1211"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.raikot",
-          "name": "Raikot",
-          "description": "Raikot",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Raikot",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.5917,
-            "latitude": 30.6536,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.raikot",
+      "name": "Raikot",
+      "description": "Raikot",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Raikot",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.5917,
+        "latitude": 30.6536,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1906"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-           {
-          "code": "pb.raman",
-          "name": "Raman",
-          "description": "Raman",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Raman",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 74.9618,
-            "latitude": 29.9500,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.raman",
+      "name": "Raman",
+      "description": "Raman",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Raman",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.9618,
+        "latitude": 29.9500,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "317"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.sahnewal",
-          "name": "Sahnewal",
-          "description": "Sahnewal",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Sahnewal",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.9754,
-            "latitude": 30.8426,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.sahnewal",
+      "name": "Sahnewal",
+      "description": "Sahnewal",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sahnewal",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.9754,
+        "latitude": 30.8426,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1210"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.samrala",
-          "name": "Samrala",
-          "description": "Samrala",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Samrala",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 76.1910,
-            "latitude": 30.8357,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          },
+    {
+      "code": "pb.samrala",
+      "name": "Samrala",
+      "description": "Samrala",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Samrala",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.1910,
+        "latitude": 30.8357,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "319"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
 
-          {
-          "code": "pb.sujanpur",
-          "name": "Sujanpur",
-          "description": "Sujanpur",
-          "logoId": null,
-          "imageId": null,
-          "domainUrl": "",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "",
-          "OfficeTimings": {
-            "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-            "name": "Sujanpur",
-            "localName": null,
-            "districtCode": null,
-            "districtName": null,
-            "regionName": null,
-            "ulbGrade": null,
-            "longitude": 75.6014,
-            "latitude": 32.3126,
-            "shapeFileLocation": null,
-            "captcha": null,
-            "code": null
-          },
-          "address": "",
-          "contactNumber": ""
-          }
+    {
+      "code": "pb.sujanpur",
+      "name": "Sujanpur",
+      "description": "Sujanpur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sujanpur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.6014,
+        "latitude": 32.3126,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1801"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+
+    {
+      "code": "pb.adampur",
+      "name": "Adampur",
+      "description": "Adampur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Adampur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.7139,
+        "latitude": 31.4329,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1001"
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.sangrur",
+      "name": "Sangrur",
+      "description": "Sangrur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/sangrur",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcsangrur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sangrur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.8421,
+        "latitude": 30.2458,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1507"
+      },
+      "address": "Near BSNL Telephone Exchange, Sangrur",
+      "contactNumber": "9646060808"
+    },
+    {
+      "code": "pb.nawanshahr",
+      "name": "Nawanshahr",
+      "description": "Nawanshahr",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/nawanshahr",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcnawanshahr@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Nawanshahr",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.1156,
+        "latitude": 31.1243,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1406"
+      },
+      "address": "",
+      "contactNumber": "9914333110"
+    }
   ]
 }
