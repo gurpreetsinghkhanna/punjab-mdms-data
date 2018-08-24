@@ -73,18 +73,6 @@
           "code": "pb.sujanpur"
         }
       ]
-    },
-    {
-      "module": "PT",
-      "code": "PT",
-      "tenants": [
-        {
-          "code": "pb.sangrur"
-        },
-        {
-          "code": "pb.nawanshahr"
-        }
-      ]
     }
   ]
 }
