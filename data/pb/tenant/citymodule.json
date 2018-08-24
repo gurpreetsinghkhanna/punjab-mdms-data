@@ -4,6 +4,7 @@
   "citymodule": [
     {
       "module": "PGR",
+      "code": "PGR",
       "tenants": [
         {
           "code": "pb.adampur"
@@ -75,6 +76,7 @@
     },
     {
       "module": "PT",
+      "code": "PT",
       "tenants": [
         {
           "code": "pb.sangrur"
