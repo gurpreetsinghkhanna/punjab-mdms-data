@@ -74,8 +74,8 @@
         }
       ]
     }, {
-      "module": "PGR",
-      "code": "PGR",
+      "module": "PT",
+      "code": "PT",
       "tenants": [
         {
           "code": "pb.nawanshahr"
