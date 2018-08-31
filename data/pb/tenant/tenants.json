@@ -1,7 +1,8 @@
 {
   "tenantId": "pb",
   "moduleName": "tenant",
-  "tenants": [{
+  "tenants": [
+    {
       "code": "pb.jalandhar",
       "name": "Jalandhar",
       "description": "Jalandhar",
@@ -53,7 +54,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 75.7708,
-        "latitude": 31.2240,
+        "latitude": 31.224,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "807"
@@ -83,7 +84,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 74.8723,
-        "latitude": 31.6340,
+        "latitude": 31.634,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107"
@@ -143,7 +144,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 75.1734,
-        "latitude": 30.8230,
+        "latitude": 30.823,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "2111"
@@ -211,7 +212,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.jagraon",
       "name": "Jagraon",
@@ -242,7 +242,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.pathankot",
       "name": "Pathankot",
@@ -273,7 +272,6 @@
       "address": "Deputy Commissioner, Pathankot, Punjab",
       "contactNumber": "0186-2346464"
     },
-
     {
       "code": "pb.khamano",
       "name": "Khamano",
@@ -304,7 +302,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.patiala",
       "name": "Patiala",
@@ -332,10 +329,9 @@
         "captcha": null,
         "code": "2203"
       },
-      "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala – 147001",
+      "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala \u2013 147001",
       "contactNumber": "0175-2311300"
     },
-
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
@@ -366,7 +362,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.makhu",
       "name": "Makhu",
@@ -397,7 +392,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.mullanpur",
       "name": "Mullanpur",
@@ -428,7 +422,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.bathinda",
       "name": "Bathinda",
@@ -451,7 +444,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 74.9455,
-        "latitude": 30.2110,
+        "latitude": 30.211,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "321"
@@ -459,7 +452,6 @@
       "address": "Office of the Deputy Commissioner, District Administrative Complex, Mini Secretariat, Bathinda-151001",
       "contactNumber": "91-164-2210042"
     },
-
     {
       "code": "pb.ludhiana",
       "name": "Ludhiana",
@@ -482,7 +474,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 75.8573,
-        "latitude": 30.9010,
+        "latitude": 30.901,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1211"
@@ -490,7 +482,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.raikot",
       "name": "Raikot",
@@ -521,7 +512,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.raman",
       "name": "Raman",
@@ -544,7 +534,7 @@
         "regionName": null,
         "ulbGrade": null,
         "longitude": 74.9618,
-        "latitude": 29.9500,
+        "latitude": 29.95,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "317"
@@ -552,7 +542,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.sahnewal",
       "name": "Sahnewal",
@@ -583,7 +572,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.samrala",
       "name": "Samrala",
@@ -605,7 +593,7 @@
         "districtName": null,
         "regionName": null,
         "ulbGrade": null,
-        "longitude": 76.1910,
+        "longitude": 76.191,
         "latitude": 30.8357,
         "shapeFileLocation": null,
         "captcha": null,
@@ -614,7 +602,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.sujanpur",
       "name": "Sujanpur",
@@ -645,7 +632,6 @@
       "address": "",
       "contactNumber": ""
     },
-
     {
       "code": "pb.adampur",
       "name": "Adampur",
@@ -735,6 +721,96 @@
       },
       "address": "",
       "contactNumber": "9914333110"
+    },
+    {
+      "code": "pb.zirakpur",
+      "name": "Zirakpur",
+      "description": "Zirakpur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/zirakpur/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eomczirakpur@yahoo.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Zirakpur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.8173,
+        "latitude": 30.6425,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1507"
+      },
+      "address": "ZIRAKPUR",
+      "contactNumber": "01762-2876521"
+    },
+    {
+      "code": "pb.kurali",
+      "name": "Kurali",
+      "description": "Kurali",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://lgpunjab.gov.in/eSewa/kurali/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "municipalcouncilkurali@yahoo.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kurali",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.5748,
+        "latitude": 30.831,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1504"
+      },
+      "address": "W.no-5, Kurali",
+      "contactNumber": "0160-5002445"
+    },
+    {
+      "code": "pb.kharar",
+      "name": "Kharar",
+      "description": "Kharar",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/kharar/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mck.kharar@yahoo.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kharar",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 76.6414,
+        "latitude": 30.7489,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1503"
+      },
+      "address": null,
+      "contactNumber": "0160-2280218"
     }
   ]
 }
