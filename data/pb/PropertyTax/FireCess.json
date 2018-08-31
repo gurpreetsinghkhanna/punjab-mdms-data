@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "FireCess": [
     {
-      "rate": 5,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount" : null,
