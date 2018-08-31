@@ -46,7 +46,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR1",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -58,7 +58,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR2",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -70,7 +70,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR3",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -82,7 +82,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR4",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -94,7 +94,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR5",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -106,7 +106,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR6",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -118,7 +118,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR7",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -130,7 +130,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR8",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -142,7 +142,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR9",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -154,7 +154,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR10",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -166,7 +166,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR11",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -178,7 +178,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR12",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -190,7 +190,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR13",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -202,7 +202,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR14",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -214,7 +214,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR15",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -226,7 +226,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR16",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -250,7 +250,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR17",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -262,7 +262,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR18",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -274,7 +274,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR19",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -286,7 +286,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR20",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -298,7 +298,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR21",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -310,7 +310,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR22",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -322,7 +322,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR23",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -334,7 +334,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR24",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -346,7 +346,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR25",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -358,7 +358,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR26",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -370,7 +370,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR27",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -382,7 +382,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR28",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -394,7 +394,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR29",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -406,7 +406,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR30",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -418,7 +418,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR31",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -430,7 +430,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR32",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -442,7 +442,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR33",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -454,7 +454,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR34",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -466,7 +466,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR35",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -478,7 +478,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR36",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -490,7 +490,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR37",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -502,7 +502,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR38",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -514,7 +514,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR39",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -526,7 +526,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR40",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -538,7 +538,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR41",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -550,7 +550,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR42",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -562,7 +562,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR43",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -586,7 +586,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR44",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -598,7 +598,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR45",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -610,7 +610,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR46",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -634,7 +634,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR47",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -646,7 +646,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR48",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -658,7 +658,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR49",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -670,7 +670,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR50",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -682,7 +682,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR51",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -694,7 +694,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR52",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -706,7 +706,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR53",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -718,7 +718,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR54",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -730,7 +730,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR55",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -742,7 +742,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR56",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -754,7 +754,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR57",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -766,7 +766,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR58",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -778,7 +778,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR59",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -790,7 +790,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR60",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -802,7 +802,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR61",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -814,7 +814,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR62",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -826,7 +826,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR63",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -838,7 +838,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR64",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -862,7 +862,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR65",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -874,7 +874,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR66",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -886,7 +886,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR67",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -898,7 +898,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR68",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -922,7 +922,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR69",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -934,7 +934,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR70",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -946,7 +946,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR71",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -958,7 +958,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR72",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -970,7 +970,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR73",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -982,7 +982,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR74",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -994,7 +994,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR75",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1018,7 +1018,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR76",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1030,7 +1030,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR77",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1042,7 +1042,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR78",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1054,7 +1054,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR79",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1066,7 +1066,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR80",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1078,7 +1078,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR81",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1090,7 +1090,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR82",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1102,7 +1102,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR83",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1114,7 +1114,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR84",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1126,7 +1126,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR85",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1138,7 +1138,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR86",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1150,7 +1150,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR87",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1162,7 +1162,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR88",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1174,7 +1174,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR89",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1198,7 +1198,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR90",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1210,7 +1210,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR91",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1222,7 +1222,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR92",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1234,7 +1234,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR93",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1258,7 +1258,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR94",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1270,7 +1270,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR95",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1282,7 +1282,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR96",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1294,7 +1294,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR97",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1306,7 +1306,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR98",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1318,7 +1318,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR99",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1330,7 +1330,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR100",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1342,7 +1342,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR101",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1354,7 +1354,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR102",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1366,7 +1366,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR103",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1378,7 +1378,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR104",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1390,7 +1390,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR105",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1402,7 +1402,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR106",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1414,7 +1414,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR107",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1438,7 +1438,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR108",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1450,7 +1450,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR109",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1474,7 +1474,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR110",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1486,7 +1486,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR111",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1498,7 +1498,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR112",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1510,7 +1510,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR113",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1522,7 +1522,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR114",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1534,7 +1534,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR115",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1558,7 +1558,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR116",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1582,7 +1582,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR117",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1594,7 +1594,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR118",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1606,7 +1606,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR119",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1618,7 +1618,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR120",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1630,7 +1630,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR121",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1642,7 +1642,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR122",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1666,7 +1666,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR123",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1678,7 +1678,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR124",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1690,7 +1690,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR125",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1702,7 +1702,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR126",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1714,7 +1714,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR127",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1726,7 +1726,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR128",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1738,7 +1738,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR129",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1750,7 +1750,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR130",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1762,7 +1762,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR131",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1774,7 +1774,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR132",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1798,7 +1798,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR133",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1810,7 +1810,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR134",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1822,7 +1822,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR135",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1834,7 +1834,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR136",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1846,7 +1846,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR137",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1858,7 +1858,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR138",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1870,7 +1870,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR139",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1882,7 +1882,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR140",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1894,7 +1894,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR141",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1906,7 +1906,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR142",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1918,7 +1918,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR143",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1930,7 +1930,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR144",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1942,7 +1942,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR145",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1954,7 +1954,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR146",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -1966,7 +1966,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR147",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -1990,7 +1990,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR148",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2002,7 +2002,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR149",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2014,7 +2014,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR150",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2026,7 +2026,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR151",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2038,7 +2038,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR152",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2050,7 +2050,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR153",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -2074,7 +2074,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR154",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2086,7 +2086,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR155",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2098,7 +2098,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR156",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2110,7 +2110,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR157",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2122,7 +2122,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR158",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2134,7 +2134,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR159",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2146,7 +2146,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR160",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2158,7 +2158,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR161",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2170,7 +2170,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR162",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2182,7 +2182,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR163",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2194,7 +2194,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR164",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -2218,7 +2218,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR165",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2230,7 +2230,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR166",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2242,7 +2242,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR167",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2254,7 +2254,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR168",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2266,7 +2266,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR169",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2278,7 +2278,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR170",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2290,7 +2290,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR171",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2302,7 +2302,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR172",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2314,7 +2314,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR173",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -2338,7 +2338,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR174",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2350,7 +2350,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR175",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2362,7 +2362,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR176",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2374,7 +2374,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR177",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2386,7 +2386,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR178",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2398,7 +2398,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR179",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2410,7 +2410,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR180",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2422,7 +2422,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR181",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -2446,7 +2446,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR182",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2458,7 +2458,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR183",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2470,7 +2470,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR184",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2482,7 +2482,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR185",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2494,7 +2494,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR186",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2506,7 +2506,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR187",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2518,7 +2518,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR188",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2530,7 +2530,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR189",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2542,7 +2542,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR190",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2554,7 +2554,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR191",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2566,7 +2566,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR192",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2578,7 +2578,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR193",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2590,7 +2590,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR194",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2602,7 +2602,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR195",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2614,7 +2614,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR196",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2626,7 +2626,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR197",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2638,7 +2638,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR198",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2650,7 +2650,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR199",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2662,7 +2662,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR200",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2674,7 +2674,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR201",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2686,7 +2686,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR202",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2698,7 +2698,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR203",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2710,7 +2710,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR204",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2722,7 +2722,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR205",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2734,7 +2734,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR206",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2746,7 +2746,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR207",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2758,7 +2758,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR208",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2770,7 +2770,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR209",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2782,7 +2782,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR210",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2794,7 +2794,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR211",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2806,7 +2806,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR212",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2818,7 +2818,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR213",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2830,7 +2830,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR214",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2842,7 +2842,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR215",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2854,7 +2854,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR216",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2866,7 +2866,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR217",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -2890,7 +2890,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR218",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2902,7 +2902,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR219",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2914,7 +2914,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR220",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2926,7 +2926,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR221",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2938,7 +2938,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR222",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2950,7 +2950,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR223",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2962,7 +2962,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR224",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2974,7 +2974,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR225",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2986,7 +2986,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR226",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -2998,7 +2998,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR227",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3010,7 +3010,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR228",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3022,7 +3022,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR229",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3034,7 +3034,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR230",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3046,7 +3046,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR231",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3058,7 +3058,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR232",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3070,7 +3070,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR233",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3082,7 +3082,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR234",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3094,7 +3094,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR235",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3106,7 +3106,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR236",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3118,7 +3118,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR237",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -3142,7 +3142,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR238",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3154,7 +3154,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR239",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3166,7 +3166,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR240",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3178,7 +3178,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR241",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3190,7 +3190,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR242",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3202,7 +3202,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR243",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3214,7 +3214,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR244",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3226,7 +3226,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR245",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3238,7 +3238,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR246",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3250,7 +3250,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR247",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3262,7 +3262,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR248",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3274,7 +3274,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR249",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3286,7 +3286,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR250",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3298,7 +3298,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR251",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3310,7 +3310,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR252",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3322,7 +3322,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR253",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3334,7 +3334,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR254",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3346,7 +3346,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR255",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3358,7 +3358,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR256",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3370,7 +3370,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR257",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3382,7 +3382,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR258",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3394,7 +3394,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR259",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3406,7 +3406,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR260",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3418,7 +3418,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR261",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3430,7 +3430,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR262",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3442,7 +3442,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR263",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3454,7 +3454,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR264",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3466,7 +3466,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR265",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3478,7 +3478,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR266",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3490,7 +3490,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR267",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3502,7 +3502,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR268",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3514,7 +3514,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR269",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3526,7 +3526,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR270",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3538,7 +3538,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR271",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3550,7 +3550,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR272",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3562,7 +3562,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR273",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3574,7 +3574,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR274",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3586,7 +3586,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR275",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3598,7 +3598,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR276",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3610,7 +3610,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR277",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3622,7 +3622,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR278",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3634,7 +3634,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR279",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3646,7 +3646,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR280",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3658,7 +3658,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR281",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3670,7 +3670,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR282",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3682,7 +3682,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR283",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3694,7 +3694,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR284",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3706,7 +3706,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR285",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3718,7 +3718,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR286",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3730,7 +3730,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR287",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3742,7 +3742,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR288",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3754,7 +3754,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR289",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3766,7 +3766,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR290",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3778,7 +3778,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR291",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3790,7 +3790,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR292",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3802,7 +3802,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR293",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3814,7 +3814,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR294",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3826,7 +3826,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR295",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3838,7 +3838,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR296",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3850,7 +3850,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR297",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3862,7 +3862,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR298",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3874,7 +3874,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR299",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3886,7 +3886,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR300",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3898,7 +3898,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR301",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3910,7 +3910,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR302",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3922,7 +3922,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR303",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3934,7 +3934,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR304",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3946,7 +3946,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR305",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3958,7 +3958,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR306",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -3970,7 +3970,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR307",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -3994,7 +3994,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR308",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4006,7 +4006,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR309",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4018,7 +4018,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR310",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4030,7 +4030,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR311",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4042,7 +4042,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR312",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4054,7 +4054,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR313",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4066,7 +4066,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR314",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4078,7 +4078,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR315",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4090,7 +4090,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR316",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4102,7 +4102,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR317",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4114,7 +4114,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR318",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4126,7 +4126,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR319",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4138,7 +4138,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR320",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4150,7 +4150,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR321",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4162,7 +4162,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR322",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4174,7 +4174,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR323",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4186,7 +4186,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR324",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4198,7 +4198,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR325",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4210,7 +4210,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR326",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4222,7 +4222,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR327",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4234,7 +4234,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR328",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4246,7 +4246,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR329",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4258,7 +4258,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR330",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4270,7 +4270,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR331",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
@@ -4294,7 +4294,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR332",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4306,7 +4306,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR333",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4318,7 +4318,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR334",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4330,7 +4330,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR335",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4342,7 +4342,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR336",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4354,7 +4354,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR337",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4366,7 +4366,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR338",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4378,7 +4378,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR339",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4390,7 +4390,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR340",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4402,7 +4402,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR341",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4414,7 +4414,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR342",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4426,7 +4426,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR343",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4438,7 +4438,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR344",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   },
                   {
@@ -4450,7 +4450,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHR345",
-                    "area": "AREA-1",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
