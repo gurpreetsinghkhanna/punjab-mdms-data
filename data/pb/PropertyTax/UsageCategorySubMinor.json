@@ -261,7 +261,7 @@
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
-        "rate": 0,
+        "rate": 100,
         "maxAmount": 0,
         "flatAmount": 0
       }
