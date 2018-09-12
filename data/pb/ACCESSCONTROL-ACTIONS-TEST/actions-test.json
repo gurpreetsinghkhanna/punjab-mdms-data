@@ -2899,6 +2899,46 @@
       "navigationURL": "report/rainmaker-pgr/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1584,
+      "name": "ULB-wise PT Collection",
+      "url": "url",
+      "displayName": "ULB-wise PT Collection Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.PT Reports.ULB-wise PT Collection",
+      "navigationURL": "report/rainmaker-pt/UlbWisePtCollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1580,
+      "name": "Receipt Register",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.PT Reports.Receipt Register",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
