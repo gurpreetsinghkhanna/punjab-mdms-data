@@ -27,7 +27,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013"
+        "code": null
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "contactNumber": "0181-2227015"
@@ -57,7 +57,7 @@
         "latitude": 31.224,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "807"
+        "code": null
       },
       "address": "Town Hall, Phagwara, Punjab - 144401",
       "contactNumber": "01824-260426"
@@ -87,7 +87,7 @@
         "latitude": 31.634,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107"
+        "code": 107
       },
       "address": "Municipal Corporation Amritsar, C Block, Ranjit Avenue, Amritsar, Punjab",
       "contactNumber": "Not available"
@@ -117,7 +117,7 @@
         "latitude": 31.5143,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "910"
+        "code": null
       },
       "address": "Office of Municipal Corporation, Swami Vivekanda Bhawan, Near New Dhobi Ghat Chowk, Hoshiarpur-146001, Punjab.",
       "contactNumber": "01882220322"
@@ -147,7 +147,7 @@
         "latitude": 30.823,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "2111"
+        "code": null
       },
       "address": "Municipal Corporation,town hall, Main Bazaar, Court road, Moga, Punjab 142001",
       "contactNumber": "01636-233124"
@@ -177,7 +177,7 @@
         "latitude": 30.7046,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "2004"
+        "code": null
       },
       "address": "Municipal Corporation, SAS Nagar, Sector-68 Mohali",
       "contactNumber": "0172 5044907"
@@ -207,7 +207,7 @@
         "latitude": 31.4345,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1002"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -237,7 +237,7 @@
         "latitude": 30.7916,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1202"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -267,7 +267,7 @@
         "latitude": 32.2643,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1905"
+        "code": null
       },
       "address": "Deputy Commissioner, Pathankot, Punjab",
       "contactNumber": "0186-2346464"
@@ -297,7 +297,7 @@
         "latitude": 30.8152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "503"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -327,7 +327,7 @@
         "latitude": 30.3398,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "2203"
+        "code": null
       },
       "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala \u2013 147001",
       "contactNumber": "0175-2311300"
@@ -357,7 +357,7 @@
         "latitude": 30.9141,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1204"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -387,7 +387,7 @@
         "latitude": 31.1072,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "703"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -417,7 +417,7 @@
         "latitude": 30.8427,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "314"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -447,7 +447,7 @@
         "latitude": 30.211,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "321"
+        "code": null
       },
       "address": "Office of the Deputy Commissioner, District Administrative Complex, Mini Secretariat, Bathinda-151001",
       "contactNumber": "91-164-2210042"
@@ -477,7 +477,7 @@
         "latitude": 30.901,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1211"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -507,7 +507,7 @@
         "latitude": 30.6536,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1906"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -537,7 +537,7 @@
         "latitude": 29.95,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "317"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -567,7 +567,7 @@
         "latitude": 30.8426,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1210"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -597,7 +597,7 @@
         "latitude": 30.8357,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "319"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -627,7 +627,7 @@
         "latitude": 32.3126,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1801"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
@@ -657,76 +657,556 @@
         "latitude": 31.4329,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1001"
+        "code": null
       },
       "address": "",
       "contactNumber": ""
     },
     {
-      "code": "pb.sangrur",
-      "name": "Sangrur",
-      "description": "Sangrur",
+      "code": "pb.balianwali",
+      "name": "Balianwali",
+      "description": "Balianwali",
       "logoId": null,
       "imageId": null,
-      "domainUrl": "http://lgpunjab.gov.in/eSewa/sangrur",
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/balianwali/",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "mcsangrur@gmail.com",
+      "emailId": "",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Sangrur",
+        "name": "Balianwali",
         "localName": null,
         "districtCode": null,
         "districtName": null,
         "regionName": null,
         "ulbGrade": null,
-        "longitude": 75.8421,
-        "latitude": 30.2458,
+        "longitude": 74.9457,
+        "latitude": 30.2082,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1507"
-      },
-      "address": "Near BSNL Telephone Exchange, Sangrur",
-      "contactNumber": "9646060808"
-    },
-    {
-      "code": "pb.nawanshahr",
-      "name": "Nawanshahr",
-      "description": "Nawanshahr",
-      "logoId": null,
-      "imageId": null,
-      "domainUrl": "http://lgpunjab.gov.in/eSewa/nawanshahr",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcnawanshahr@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Nawanshahr",
-        "localName": null,
-        "districtCode": null,
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": 76.1156,
-        "latitude": 31.1243,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1406"
+        "code": 301
       },
       "address": "",
-      "contactNumber": "9914333110"
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.goniana",
+      "name": "Goniana",
+      "description": "Goniana",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/goniana/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Goniana",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.9146,
+        "latitude": 30.3191,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 306
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.bhuchomandi",
+      "name": "Bhuchomandi",
+      "description": "Bhuchomandi",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bhuchomandi",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.0903,
+        "latitude": 30.2132,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 304
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.rampura phul",
+      "name": "Rampura Phul",
+      "description": "Rampura Phul",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Rampura Phul",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.2421,
+        "latitude": 30.2758,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 318
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.maur",
+      "name": "Maur",
+      "description": "Maur",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Maur",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.2317,
+        "latitude": 30.0646,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 311
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.kotfatta",
+      "name": "Kotfatta",
+      "description": "Kotfatta",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Kotfatta",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.0816,
+        "latitude": 30.1135,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 308
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.talwandisabo",
+      "name": "Talwandisabo",
+      "description": "Talwandisabo",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Talwandisabo",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.0903,
+        "latitude": 29.9875,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 320
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.bariwala",
+      "name": "Bariwala",
+      "description": "Bariwala",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/bariwala",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bariwala",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.6525,
+        "latitude": 30.5379,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 1601
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.sardulgarh",
+      "name": "Sardulgarh",
+      "description": "Sardulgarh",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/Sardulgarh/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sardulgarh",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.2352,
+        "latitude": 29.6949,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 1307
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.sangatmandi",
+      "name": "Sangatmandi",
+      "description": "Sangatmandi",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/sangat",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sangatmandi",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.8354,
+        "latitude": 30.0907,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 319
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.gidderbaha",
+      "name": "Gidderbaha",
+      "description": "Gidderbaha",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/gidderbaha/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Gidderbaha",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 74.6576,
+        "latitude": 30.2074,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 1602
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.bhagtabhai",
+      "name": "Bhagtabhai",
+      "description": "Bhagtabhai",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bhagtabhai",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": 75.0932,
+        "latitude": 30.4811,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": 302
+      },
+      "address": "",
+      "contactNumber": ""
+    },
+    {
+      "code": "pb.testing",
+      "name": "Testing",
+      "description": "Testing",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/Testing",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eonpTesting@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "10",
+        "districtName": "Jalandhar",
+        "regionName": "Jalandhar Region",
+        "ulbGrade": null,
+        "longitude": 75.3383,
+        "latitude": 31.0824,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1012"
+      },
+      "address": "Near New Bus, Stand Moga Road Testing",
+      "contactNumber": "01821-260114"
+    },
+    {
+      "code": "pb.shahkot",
+      "name": "Shahkot",
+      "description": "Shahkot",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.shahkot/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/shahkot",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eonpshahkot@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Shahkot",
+        "localName": "Shahkot",
+        "districtCode": "10",
+        "districtName": "Jalandhar",
+        "regionName": "Jalandhar Region",
+        "ulbGrade": null,
+        "longitude": 75.3383,
+        "latitude": 31.0824,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1012"
+      },
+      "address": "Near New Bus, Stand Moga Road Shahkot",
+      "contactNumber": "01821-260114"
+    },
+    {
+      "code": "pb.handiaya",
+      "name": "Handiaya",
+      "description": "Handiaya",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.handiaya/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab,gov.in/eSewa/handiaya",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ddlgp_handiaya@yahoo.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Handiaya",
+        "localName": "Handiaya",
+        "districtCode": "2",
+        "districtName": "Barnala",
+        "regionName": "Patiala Region",
+        "ulbGrade": null,
+        "longitude": 75.5102,
+        "latitude": 30.3289,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "204"
+      },
+      "address": "handiaya",
+      "contactNumber": "01679-284030"
+    },
+    {
+      "code": "pb.lalru",
+      "name": "Lalru",
+      "description": "Lalru",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.lalru/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/lalru",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mclalru@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Lalru",
+        "localName": "Lalru",
+        "districtCode": "15",
+        "districtName": "Mohali",
+        "regionName": "Patiala Region",
+        "ulbGrade": null,
+        "longitude": 76.8,
+        "latitude": 30.4874,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1505"
+      },
+      "address": null,
+      "contactNumber": "01762-292444"
+    },
+    {
+      "code": "pb.dasuya",
+      "name": "Dasuya",
+      "description": "Dasuya",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.dasuya/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/dasuya/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eomcdasuya@yahoo.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dasuya",
+        "localName": "Dasuya",
+        "districtCode": "9",
+        "districtName": "Hoshiarpur",
+        "regionName": "Jalandhar Region",
+        "ulbGrade": null,
+        "longitude": 75.6637,
+        "latitude": 31.8132,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "901"
+      },
+      "address": null,
+      "contactNumber": "01883-285058"
+    },
+    {
+      "code": "pb.sultanpurlodhi",
+      "name": "SultanpurLodhi",
+      "description": "SultanpurLodhi",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.sultanpurlodhi/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/sultanpurlodhi",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcspl73@yahoo.co.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "SultanpurLodhi",
+        "localName": "Sultanpur lodhi",
+        "districtCode": "11",
+        "districtName": "Kapurthala",
+        "regionName": "Jalandhar Region",
+        "ulbGrade": null,
+        "longitude": 75.1954,
+        "latitude": 31.2141,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1106"
+      },
+      "address": "Aria Smaj Chowk Sultanpur Lldhi",
+      "contactNumber": "01828-222050"
     },
     {
       "code": "pb.zirakpur",
       "name": "Zirakpur",
       "description": "Zirakpur",
-      "logoId": null,
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.zirakpur/logo.png",
       "imageId": null,
       "domainUrl": "http://lgpunjab.gov.in/eSewa/zirakpur/",
       "type": "CITY",
@@ -738,10 +1218,10 @@
       },
       "city": {
         "name": "Zirakpur",
-        "localName": null,
-        "districtCode": null,
-        "districtName": null,
-        "regionName": null,
+        "localName": "Zirakpur",
+        "districtCode": "15",
+        "districtName": "Mohali",
+        "regionName": "Patiala Region",
         "ulbGrade": null,
         "longitude": 76.8173,
         "latitude": 30.6425,
@@ -750,67 +1230,7 @@
         "code": "1507"
       },
       "address": "ZIRAKPUR",
-      "contactNumber": "01762-2876521"
-    },
-    {
-      "code": "pb.kurali",
-      "name": "Kurali",
-      "description": "Kurali",
-      "logoId": null,
-      "imageId": null,
-      "domainUrl": "https://lgpunjab.gov.in/eSewa/kurali/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "municipalcouncilkurali@yahoo.in",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "Kurali",
-        "localName": null,
-        "districtCode": null,
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": 76.5748,
-        "latitude": 30.831,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1504"
-      },
-      "address": "W.no-5, Kurali",
-      "contactNumber": "0160-5002445"
-    },
-    {
-      "code": "pb.kharar",
-      "name": "Kharar",
-      "description": "Kharar",
-      "logoId": null,
-      "imageId": null,
-      "domainUrl": "http://lgpunjab.gov.in/eSewa/kharar/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mck.kharar@yahoo.in",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "Kharar",
-        "localName": null,
-        "districtCode": null,
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": 76.6414,
-        "latitude": 30.7489,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1503"
-      },
-      "address": null,
-      "contactNumber": "0160-2280218"
+      "contactNumber": "17622876521.0"
     }
   ]
 }

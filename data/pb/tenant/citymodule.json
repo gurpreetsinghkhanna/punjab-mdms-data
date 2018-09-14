@@ -7,6 +7,9 @@
       "code": "PGR",
       "tenants": [
         {
+          "code": "pb.adampur"
+        },
+        {
           "code": "pb.alawalpur"
         },
         {
@@ -68,6 +71,42 @@
         },
         {
           "code": "pb.sujanpur"
+        },
+        {
+          "code": "pb.goniana"
+        },
+        {
+          "code": "pb.balianwali"
+        },
+        {
+          "code": "pb.bhuchomandi"
+        },
+        {
+          "code": "pb.rampura phul"
+        },
+        {
+          "code": "pb.maur"
+        },
+        {
+          "code": "pb.kotfatta"
+        },
+        {
+          "code": "pb.talwandisabo"
+        },
+        {
+          "code": "pb.bariwala"
+        },
+        {
+          "code": "pb.sardulgarh"
+        },
+        {
+          "code": "pb.sangatmandi"
+        },
+        {
+          "code": "pb.gidderbaha"
+        },
+        {
+          "code": "pb.bhagtabhai"
         }
       ]
     },
@@ -76,13 +115,22 @@
       "code": "PT",
       "tenants": [
         {
+          "code": "pb.shahkot"
+        },
+        {
+          "code": "pb.handiaya"
+        },
+        {
+          "code": "pb.lalru"
+        },
+        {
+          "code": "pb.dasuya"
+        },
+        {
+          "code": "pb.sultanpurlodhi"
+        },
+        {
           "code": "pb.zirakpur"
-        },
-        {
-          "code": "pb.kurali"
-        },
-        {
-          "code": "pb.kharar"
         }
       ]
     }
