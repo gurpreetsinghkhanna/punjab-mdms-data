@@ -112,7 +112,7 @@
         "districtCode": null,
         "districtName": null,
         "regionName": null,
-        "ulbGrade": null,
+        "ulbGrade": "NP",
         "longitude": 75.9115,
         "latitude": 31.5143,
         "shapeFileLocation": null,
