@@ -3501,12 +3501,6 @@
     },
     {
       "rolecode": "PTCEMP",
-      "actionid": 1592,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PTCEMP",
       "actionid": 1556,
       "actioncode": "",
       "tenantId": "pb"
@@ -3838,12 +3832,6 @@
     {
       "rolecode": "PTFEMP",
       "actionid": 1590,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PTFEMP",
-      "actionid": 1592,
       "actioncode": "",
       "tenantId": "pb"
     },
