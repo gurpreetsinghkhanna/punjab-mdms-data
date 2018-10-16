@@ -5289,7 +5289,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "EMPLOYEE_FINANCE",
       "actionid": 570,
       "actioncode": "",
@@ -5304,6 +5304,18 @@
     {
       "rolecode": "EMPLOYEE_FINANCE",
       "actionid": 743,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1691,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 1691,
       "actioncode": "",
       "tenantId": "pb"
     }
