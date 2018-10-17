@@ -4088,6 +4088,19 @@
     "code": "null",
     "navigationURL": "services/collection/receipts/searchReceipt.action",
     "path": "Collections.Search Receipts"
-  }
+  },
+    {
+      "id": 1690,
+      "name": "TradeLicenseApplication",
+      "url": "url",
+      "displayName": "Application",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "navigationURL": "tradelicense/search",
+      "path": "TradeLicense.Application"
+    }
   ]
 }
