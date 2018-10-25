@@ -1,14 +1,7 @@
 {
     "tenantId": "pb",
     "moduleName": "common-masters",
-    "UOM": [{
-            "code": "GALLONS",
-            "active": true
-        },
-        {
-            "code": "GROSSUNITS",
-            "active": true
-        },
+    "UOM": [
         {
             "code": "HP",
             "active": true
