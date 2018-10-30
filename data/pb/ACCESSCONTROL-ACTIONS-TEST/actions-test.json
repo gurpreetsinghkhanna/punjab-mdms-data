@@ -3137,11 +3137,11 @@
     {
       "id": 1620,
       "name": "Scheme-Create",
-      "url": "/services/EGF/masters/scheme-newForm.action",
+      "url": "url",
       "parentModule": "",
       "displayName": "Create Scheme",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.Create Scheme",
@@ -3150,11 +3150,11 @@
     {
       "id": 1621,
       "name": "View Schemes-Search",
-      "url": "/services/EGF/masters/scheme-beforeSearch.action",
+      "url": "url",
       "parentModule": "",
       "displayName": "View Scheme",
       "orderNumber": 2,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.View Scheme",
@@ -3167,11 +3167,11 @@
       "parentModule": "",
       "displayName": "Modify Scheme",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.Modify Scheme",
-      "navigationURL": "services/EGF/masters/scheme-beforeSearch.action?mode=edit"
+      "navigationURL": "services/EGF/masters/scheme-beforeSearch-edit.action"
     },
     {
       "id": 1623,
@@ -3219,11 +3219,11 @@
       "parentModule": "",
       "displayName": "View Sub Scheme",
       "orderNumber": 5,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.View Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action?showMode=view"
+      "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action"
     },
     {
       "id": 1627,
@@ -3232,11 +3232,11 @@
       "parentModule": "",
       "displayName": "Modify Sub Scheme",
       "orderNumber": 6,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.Modify Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action?showMode=edit"
+      "navigationURL": "services/EGF/masters/subScheme-beforeSearch-edit.action"
     },
     {
       "id": 1628,
@@ -3475,11 +3475,11 @@
     {
       "id": 1646,
       "name": "Create Sub Scheme",
-      "url": "/services/EGF/masters/subScheme-newForm.action",
+      "url": "url",
       "parentModule": "",
       "displayName": "Create Sub Scheme",
       "orderNumber": 4,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.Create Sub-scheme",
@@ -4001,8 +4001,8 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-  },
-  {
+    },
+    {
       "id": 1683,
       "name": "billing slab update",
       "url": "/tl-calculator/billingslab/_update",
@@ -4014,8 +4014,8 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-  },
-  {
+    },
+    {
       "id": 1684,
       "name": "billing slab search",
       "url": "/tl-calculator/billingslab/_search",
@@ -4027,8 +4027,8 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-  },
-  {
+    },
+    {
       "id": 1685,
       "name": "Create TradeLicense",
       "url": "/tl-services/v1/_create",
@@ -4039,8 +4039,8 @@
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
-  },
-  {
+    },
+    {
       "id": 1686,
       "name": "Update TradeLicense",
       "url": "/tl-services/v1/_update",
@@ -4051,8 +4051,8 @@
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
-  },
-  {
+    },
+    {
       "id": 1687,
       "name": "Search TradeLicense",
       "url": "/tl-services/v1/_search",
@@ -4063,8 +4063,8 @@
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
-  },
-  {
+    },
+    {
       "id": 1688,
       "name": "Get Bill",
       "url": "/tl-calculator/v1/_getbill",
@@ -4075,20 +4075,20 @@
       "serviceCode": "tl-calculator",
       "code": "null",
       "path": ""
-  },
-  {
-    "id": 1693,
-    "name": "Receipts Search",
-    "url": "url",
-    "displayName": "Search Receipts",
-    "orderNumber": 1,
-    "parentModule": "",
-    "enabled": true,
-    "serviceCode": "Collections",
-    "code": "null",
-    "navigationURL": "services/collection/receipts/searchReceipt.action",
-    "path": "Collections.Search Receipts"
-  },
+    },
+    {
+      "id": 1693,
+      "name": "Receipts Search",
+      "url": "url",
+      "displayName": "Search Receipts",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/receipts/searchReceipt.action",
+      "path": "Collections.Search Receipts"
+    },
     {
       "id": 1690,
       "name": "TradeLicenseApplication",
@@ -4101,6 +4101,67 @@
       "code": "null",
       "navigationURL": "tradelicense/search",
       "path": "TradeLicense.Application"
+    },
+    {
+      "id": 1694,
+      "name": "Cancel Voucher",
+      "url": "/services/EGF/rest/voucher/_cancel",
+      "displayName": "Cancel Voucher",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "VOUCHER",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1695,
+      "name": "Search Voucher",
+      "url": "/services/EGF/rest/voucher/_search",
+      "displayName": "Search Voucher",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "VOUCHER",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1696,
+      "name": "Create Remittance",
+      "url": "/collection-services/remittances/_create",
+      "displayName": "Create Remittance",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1697,
+      "name": "Search Remittance",
+      "url": "/collection-services/remittances/_search",
+      "displayName": "Search Remittance",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1698,
+      "name": "Cash Remittance",
+      "url": "url",
+      "displayName": "Cash Remittance",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
+      "path": "Collections.Cash Remittance"
     }
   ]
 }
