@@ -5,106 +5,10 @@
       "module": "PGR",
       "code": "PGR",
       "tenants": [{
-          "code": "pb.adampur"
-        },
-        {
-          "code": "pb.alawalpur"
-        },
-        {
           "code": "pb.amritsar"
         },
         {
-          "code": "pb.bathinda"
-        },
-        {
-          "code": "pb.hoshiarpur"
-        },
-        {
-          "code": "pb.jagraon"
-        },
-        {
           "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.khamano"
-        },
-        {
-          "code": "pb.ludhiana"
-        },
-        {
-          "code": "pb.machhiwara"
-        },
-        {
-          "code": "pb.makhu"
-        },
-        {
-          "code": "pb.moga"
-        },
-        {
-          "code": "pb.mohali"
-        },
-        {
-          "code": "pb.mullanpur"
-        },
-        {
-          "code": "pb.pathankot"
-        },
-        {
-          "code": "pb.patiala"
-        },
-        {
-          "code": "pb.phagwara"
-        },
-        {
-          "code": "pb.raikot"
-        },
-        {
-          "code": "pb.raman"
-        },
-        {
-          "code": "pb.sahnewal"
-        },
-        {
-          "code": "pb.samrala"
-        },
-        {
-          "code": "pb.sujanpur"
-        },
-        {
-          "code": "pb.goniana"
-        },
-        {
-          "code": "pb.balianwali"
-        },
-        {
-          "code": "pb.bhuchomandi"
-        },
-        {
-          "code": "pb.rampura phul"
-        },
-        {
-          "code": "pb.maur"
-        },
-        {
-          "code": "pb.kotfatta"
-        },
-        {
-          "code": "pb.talwandisabo"
-        },
-        {
-          "code": "pb.bariwala"
-        },
-        {
-          "code": "pb.sardulgarh"
-        },
-        {
-          "code": "pb.sangatmandi"
-        },
-        {
-          "code": "pb.gidderbaha"
-        },
-        {
-          "code": "pb.bhagtabhai"
         }
       ]
     },
@@ -112,30 +16,6 @@
       "module": "PT",
       "code": "PT",
       "tenants": [{
-          "code": "pb.shahkot"
-        },
-        {
-          "code": "pb.handiaya"
-        },
-        {
-          "code": "pb.lalru"
-        },
-        {
-          "code": "pb.dasuya"
-        },
-        {
-          "code": "pb.sultanpurlodhi"
-        },
-        {
-          "code": "pb.zirakpur"
-        }
-      ]
-    },
-    {
-      "module": "Finance",
-      "code": "Finance",
-      "tenants": [
-        {
           "code": "pb.zirakpur"
         },
         {
@@ -144,13 +24,28 @@
       ]
     },
     {
-      "module": "TL",
-      "code": "TL",
-      "tenants": [
+      "module": "Finance",
+      "code": "Finance",
+      "tenants": [{
+          "code": "pb.mohali"
+        },
+        {
+          "code": "pb.nayagaon"
+        },
+        {
+          "code": "pb.kharar"
+        },
         {
           "code": "pb.zirakpur"
         }
       ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [{
+        "code": "pb.zirakpur"
+      }]
     }
   ]
 }
