@@ -1,10 +1,12 @@
 {
   "tenantId": "pb",
   "moduleName": "tenant",
-  "citymodule": [{
+  "citymodule": [
+    {
       "module": "PGR",
       "code": "PGR",
-      "tenants": [{
+      "tenants": [
+        {
           "code": "pb.amritsar"
         },
         {
@@ -15,18 +17,23 @@
     {
       "module": "PT",
       "code": "PT",
-      "tenants": [{
+      "tenants": [
+        {
           "code": "pb.zirakpur"
         },
         {
           "code": "pb.kharar"
+        },
+        {
+          "code": "pb.sangatmandi"
         }
       ]
     },
     {
       "module": "Finance",
       "code": "Finance",
-      "tenants": [{
+      "tenants": [
+        {
           "code": "pb.mohali"
         },
         {
@@ -43,9 +50,11 @@
     {
       "module": "TL",
       "code": "TL",
-      "tenants": [{
-        "code": "pb.zirakpur"
-      }]
+      "tenants": [
+        {
+          "code": "pb.zirakpur"
+        }
+      ]
     }
   ]
 }
