@@ -5600,6 +5600,12 @@
       "actionid": 1674,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1704,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

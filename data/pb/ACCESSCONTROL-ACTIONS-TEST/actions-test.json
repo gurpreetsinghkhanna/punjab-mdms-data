@@ -4198,6 +4198,21 @@
       "serviceCode": "hr-masters",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1704,
+      "name": "Receipt Register",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Trade License.TL Reports.Receipt Register",
+      "navigationURL": "report/rainmaker-tl/ReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
