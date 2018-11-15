@@ -4176,6 +4176,17 @@
       "path": "Collections.Cash Remittance"
     },
     {
+      "id": 1700,
+      "name": "updateUsernovalidate",
+      "url": "/user/users/_updatenovalidate",
+      "displayName": "Update User novalidate",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1701,
       "name": "EmployeeStatusSearch",
       "url": "/hr-masters-v2/hrstatuses/_search",
