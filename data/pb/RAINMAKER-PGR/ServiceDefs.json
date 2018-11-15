@@ -24,13 +24,6 @@
       "menuPath": "Garbage"
     },
     {
-      "serviceCode": "ReplaceOrProvideGarbageBin",
-      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
-      "department": "Health & Sanitation",
-      "slaHours": 336,
-      "menuPath": "Garbage"
-    },
-    {
       "serviceCode": "BurningOfGarbage",
       "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
       "department": "Health & Sanitation",
@@ -61,13 +54,6 @@
     {
       "serviceCode": "ShortageOfWater",
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "Operation & Maintenance",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage"
-    },
-    {
-      "serviceCode": "NotWaterSupply",
-      "keywords": "water, supply, connection, drink, tap",
       "department": "Operation & Maintenance",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
@@ -225,6 +211,20 @@
       "department": "Others",
       "slaHours": 336,
       "menuPath": ""
+    },
+    {
+      "serviceCode": "DamagedGarbageBin",
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "department": "Health & Sanitation",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "NoWaterSupply",
+      "keywords": "water, supply, connection, drink, tap",
+      "department": "Operation & Maintenance",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage"
     }
   ]
 }
